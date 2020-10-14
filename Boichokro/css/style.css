@@ -1,0 +1,12 @@
+.text{
+	font-family:consolas;
+	color:black;
+}
+
+.center{
+	margin: 0 auto;
+    width:80% ;
+	padding:20px;
+	
+	
+}	

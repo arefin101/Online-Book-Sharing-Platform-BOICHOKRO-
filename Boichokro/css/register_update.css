@@ -1,0 +1,11 @@
+body{
+  display: flex;
+  width:40%;
+  margin:20px auto 30px;
+ 
+  border-radius: 10px;
+}
+
+.background_color{
+  background-color: #EFF5FB
+}

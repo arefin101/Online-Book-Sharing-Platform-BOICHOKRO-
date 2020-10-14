@@ -1,0 +1,45 @@
+body{
+  display: flex;
+  width:40%;
+  margin:60px auto auto;
+  border: 3px solid #f1f1f1;
+  border-radius: 10px;
+}
+
+.background_color{
+	background-color: #EFF5FB;
+}
+
+.width{
+	margin: auto -14px;
+}
+
+.padding{
+	padding:0 30px 20px;
+}
+
+.imgcontainer {
+  text-align: center;
+  margin: 15px 0 12px 0;
+}
+
+img.book {
+  width: 10%;
+  border-radius: 15%;
+}
+.button{
+	width:100%;
+}
+.center_align{
+	text-align: center;
+	padding-top: 15px;
+}
+
+.error {
+   background: #F2DEDE;
+   color: #A94442;
+   padding: 10px;
+   width: 95%;
+   border-radius: 5px;
+   margin: 20px auto;
+}
